@@ -1,20 +1,19 @@
-Nombre Servicio,Precio,Descripción
-Corte de pelo mujer,25,"Incluye lavado, corte y secado."
-Tinte completo,40,Aplicación de color permanente en toda la melena.
-Mechas balayage,55,Técnica de coloración para un efecto degradado natural.
-Peinado evento,30,"Recogido, ondas o trenzado para ocasiones especiales."
-Manicura básica,15,"Limado, retirada de cutículas y esmaltado."
-Pedicura spa,25,Tratamiento completo de pies con exfoliación y masaje.
-Depilación cejas,10,Diseño y depilación de cejas con cera o pinzas.
-Depilación piernas,20,Depilación completa de piernas con cera tibia.
-Tratamiento facial hidratante,35,"Limpieza, exfoliación y mascarilla para nutrir la piel."
-Masaje relajante,45,Masaje corporal de 50 minutos enfocado en reducir el estrés.
-Lifting de pestañas,30,Curvatura semipermanente de pestañas naturales.
-Limpieza facial profunda,40,"Eliminación de impurezas, vapor y extracción de comedones."
-Alisado keratina,80,Tratamiento para reducir el frizz y alisar el cabello de forma duradera.
-Corte y barba (unisex),20,Corte de pelo moderno y arreglo de barba o patillas.
-Maquillaje profesional,50,"Maquillaje completo para bodas, graduaciones o eventos."
-Uñas gel,15,Aplicación y secado de esmalte en gel de larga duración.
-Uñas permanentes,30,Extensión y refuerzo de uñas con material permanente.
-Manicura + pedicura,40,Paquete combinado de manicura básica y pedicura spa.
-Cambio de look,55,"incluye asesoria, lavado, corte, tinte y secado."
+Nombre Servicio,Precio,Descripción,offer,img
+Alisado keratina,80,Tratamiento para reducir el frizz y alisar el cabello de forma duradera.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2IG5x3GvG4xei1SjKW1KAeYHdtwpbG2jKWw&s
+Cambio de look,55,"incluye asesoria, lavado, corte, tinte y secado.",,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAOH8AzZigG5sre79G6He-4w0J0UbW5Nef2Q&s
+Corte de pelo mujer,25,"Incluye lavado, corte y secado.",,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8tZLm-QBVIkaQHW6UMuHrRkNuVfABuXYpg&s
+Tinte completo,40,Aplicación de color permanente en toda la melena.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNfIyGjPpP3j8j8-ir3E2RYKRb0qm0kWsVw&s
+Mechas balayage,55,Técnica de coloración para un efecto degradado natural.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvbElve0rgK62msAJd_lyXDe-bOZLUYxkSHg&s
+Peinado evento,30,"Recogido, ondas o trenzado para ocasiones especiales.",,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6LMpImrLqye78UaM6s2BYHYu0Ko78DbcJA&s
+Manicura básica,15,"Limado, retirada de cutículas y esmaltado.",,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9jeNepcefHudhkqBEDudJMGru64G8CZAfw&s
+Pedicura spa,25,Tratamiento completo de pies con exfoliación y masaje.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm54Tg9C2m3K1WYEpnTnT16VX8KeJlotWkfQ&s
+Uñas gel,35,Aplicación y secado de esmalte en gel de larga duración.,TRUE,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdM_xY5J3sqACL5ox1HVjyY7JIhadfcLb2w&s
+Uñas permanentes,30,Extensión y refuerzo de uñas con material permanente.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlY0-t4Gq0HRuBC7e5-ydWTJAbLqlrGrxkCg&s
+Manicura + pedicura,40,Paquete combinado de manicura básica y pedicura spa.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKS0qF2CiwC_JpXfU_9nLQR1_DZq2km7j4OA&s
+Depilación cejas,10,Diseño y depilación de cejas con cera o pinzas.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ5Wza-50B2yK66eNj4kT8b5IKw5nCygDoXg&s
+Depilación piernas,20,Depilación completa de piernas con cera tibia.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ5M3Q-uI9-Ql205ZXPYScWoBkPH5yTjxLcw&s
+Tratamiento facial hidratante,35,"Limpieza, exfoliación y mascarilla para nutrir la piel.",,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBf-N_szTNI0tPplo3JVkHE8qRPJTQ3GgeTw&s
+Masaje relajante,45,Masaje corporal de 50 minutos enfocado en reducir el estrés.,TRUE,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTcrA-49MwFRhthMFbGEDdi1NuaMZo_bbyw&s
+Lifting de pestañas,30,Curvatura semipermanente de pestañas naturales.,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiB3_sjSn9oVk_az3UdmQJLP0C3pVYVlqBsA&s
+Limpieza facial profunda,40,"Eliminación de impurezas, vapor y extracción de comedones.",,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5MgZQzhfaFOl_DAfbqk_MwLXtcT5dPiUfOg&s
+Maquillaje profesional,50,"Maquillaje completo para bodas, graduaciones o eventos.",,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYS--NV6N0q9t8B3RMqadTuN9vy64O8vn3RA&s

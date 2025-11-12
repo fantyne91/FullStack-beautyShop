@@ -44,7 +44,9 @@ const seedDB = async () => {
     const servicios = serviciosData.map((servicio) => ({
       name: servicio["Nombre Servicio"],
       price: parseFloat(servicio[ "Precio" ]),
-      description:servicio["Descripción"] || "",
+      description: servicio[ "Descripción" ] || "",
+      offer: servicio[ "offer" ],
+      img:servicio["img"],
     }));
     const createdServicios = await Service.insertMany(servicios);
     console.log("Services seeded");
